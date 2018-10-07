@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: Li Jiang
+logo: /assets/img/logo.png
+description: Li Jiang is a graduate student @ UCL.
+cv_url: /assets/cv/cv.pdf
