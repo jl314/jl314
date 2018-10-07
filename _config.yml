@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-
-title: Li Jiang
+title: Minimal theme
 logo: /assets/img/logo.png
-description: Li Jiang is a graduate student @ UCL.
-cv_url: /assets/cv/cv.pdf
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
