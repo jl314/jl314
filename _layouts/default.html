@@ -14,15 +14,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        <p></p>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{ site.cv_url }}">View My Curriculum vitae <small> The crudest curriculum vitae crows and flaps its wings in a style peculiar to the undersigner. I doubt whether you can even give your telephone number without giving something of yourself. &mdash; Nabokov, Nikolai Gogol</small></a></p>
+        <p class="view"><a href="{{ site.cv_url }}">View My Curriculum vitae 
+          <small> &nbsp; </small>
+          <small> <em>"The crudest curriculum vitae crows and flaps its wings in a style peculiar to the undersigner. I doubt whether you can even give your telephone number without giving something of yourself." &mdash; Nabokov</em></small></a></p>
 
 
       </header>
@@ -32,7 +35,7 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Theme by <a href="https://orderedlist.com/minimal/">Minimal</a> & modified by <a href="https://runzhe-yang.science">Runzhe Yang</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
