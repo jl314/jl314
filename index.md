@@ -6,7 +6,7 @@ layout: default
 
 I am a first year graduate student in [Division of Psychology and Language Science](https://www.ucl.ac.uk/pals/) at [University College London](https://www.ucl.ac.uk). Prior to UCL, I received my B.A.Hons in Linguistics and Sociology from [The University of Manchester](https://www.manchester.ac.uk).
 
-I combine linguistic theories, neuroimaging techniques, and behavioural studies to measure and understand human language comprehasion and learning, with the goal of developing methods to support clinical diagnoses and therapies of language dysfunction. 
+I combine linguistic theories, neuroimaging techniques, and behavioural studies to measure and understand human language comprehension and learning, with the goal of developing methods to support clinical diagnoses and therapies of language dysfunction. 
 
 ## Research Interests
  - Typical and atypical development of language and cognition
