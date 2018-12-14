@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Li Jiang's Home Page
+# Welcome!
 
 I am a first-year graduate student in [Division of Psychology and Language Science](https://www.ucl.ac.uk/pals/) at [University College London](https://www.ucl.ac.uk). Prior to UCL, I received my B.A.Hons in Linguistics and Sociology from [The University of Manchester](https://www.manchester.ac.uk).
  
